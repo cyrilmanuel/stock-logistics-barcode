@@ -11,6 +11,7 @@
     "data": [
         "views/product_packaging_view.xml",
         "views/product_template_view.xml",
+        "views/barcode_view.xml",
     ],
     "installable": True,
     "post_init_hook": "post_init_hook",
